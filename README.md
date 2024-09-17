@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project utilized SQLite to analyze data. 
+This project utilized SQLite to clean data. 
 
 ## Data
 
