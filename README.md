@@ -8,4 +8,3 @@ This project utilized SQLite to analyze data.
 
 -- https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
-##Creating Tables
