@@ -1,10 +1,10 @@
 # Data Cleaning using SQL
 
-##Overview
+## Overview
 
 This project utilized SQLite to analyze data. 
 
-##Data
+## Data
 
 -- https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
